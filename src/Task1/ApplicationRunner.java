@@ -1,5 +1,6 @@
+package Task1;
 
-import impl.GenericFunction;
+import Task1.impl.GenericFunction;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;

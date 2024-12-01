@@ -1,6 +1,8 @@
-package impl;
+package Task2.impl;
+
 
 @FunctionalInterface
 public interface GenericFunction<T> {
-    T apply(T t);
+    T day();
 }
+
